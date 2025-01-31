@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../booki-starter-code-master (6)/booki-starter-code-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
